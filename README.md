@@ -1,2 +1,2 @@
-# Village-Web-Portal
+# Village-Portal
 The Project is only for Village web portal based in PHP 
