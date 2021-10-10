@@ -1,2 +1,2 @@
 # Village-Portal
-The Project is only for Village web portal based in PHP 
+The Project is only for Village Web Application based in PHP 
